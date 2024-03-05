@@ -33,7 +33,7 @@ Aquí en GitHub, comparto recursos, ejemplos de código y proyectos que utilizam
 - `microservicios-ejemplo` Proyecto base que proporciona una introducción al ecosistema de microservicios. Este repositorio sirve como punto de partida para aquellos que están interesados en explorar cómo los microservicios interactúan entre sí y cómo se pueden desplegar y escalar de manera independiente.
 
 ### 📚 Recursos para Estudiantes
-Si eres estudiante, asegúrate de visitar los *Wikis* de mis repositorios, donde he compilado listas de recursos, lecturas adicionales y ejercicios para cada uno de los módulos que imparto.
+Si eres estudiante, asegúrate de visitar la *Moodle* del centro.
 
 ---
 
