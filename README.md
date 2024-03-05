@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![Descripción alternativa de la imagen](https://cdn.pixabay.com/animation/2022/09/07/08/55/08-55-43-_256.gif)
 # Bienvenido a mi perfil de GitHub :octocat:
 
 ## Acerca de mí
