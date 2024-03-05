@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### 🍎 Enseñanza
 Este año tengo el placer de enseñar los siguientes módulos:
-- **Desarrollo Web en Entorno Servidor**: Segundo curso del título de DAW, donde los estudiantes aprenden sobre tecnologías backend como PHP, Node.js, y cómo estas tecnologías interactúan con bases de datos para servir aplicaciones dinámicas y robustas.
+- **Desarrollo Web en Entorno Servidor**: Segundo curso del título de DAW, donde los estudiantes aprenden sobre tecnologías backend y cómo estas tecnologías interactúan con bases de datos para servir aplicaciones dinámicas y robustas.
 - **Entornos de Desarrollo**: Primer curso del título de DAW, enfocado en familiarizar a los estudiantes con las herramientas y prácticas que hacen posible el desarrollo de software moderno, incluyendo control de versiones, depuración y automatización.
 
 ### 🌐 Contribuciones
