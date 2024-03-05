@@ -13,11 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img alt="Descripción alternativa de la imagen" src="https://cdn.pixabay.com/animation/2022/09/07/08/55/08-55-43-_256.gif" width="auto" height="100"/>
-  <img alt="Logo escudo Andalucía" src="https://i.pinimg.com/736x/e4/e0/b4/e4e0b4f3829fdf877332e5d31ed217c1.jpg" width="100" height="100"/>
+  <img alt="Muñedo" src="https://cdn.pixabay.com/animation/2022/09/07/08/55/08-55-43-_256.gif" width="auto" height="100"/>
 </p>
 
-![Descripción alternativa de la imagen](https://cdn.pixabay.com/animation/2022/09/07/08/55/08-55-43-_256.gif)
 ## Acerca de mí :octocat:
 
 ¡Hola! Soy el usuario **profeinformatica101**, un apasionado profesor de Educación Secundaria, Bachillerato y Formación Profesional. Estoy dedicado a inspirar y formar a la próxima generación de desarrolladores web.
@@ -45,4 +43,9 @@ Si eres estudiante, asegúrate de visitar la *Moodle* del centro.
 Para cualquier consulta relacionada con los módulos, no dudes en abrir un *issue* en este repositorio o enviarme un correo directamente a `jdommay863@g.educaand.es`.
 
 ¡Sigue programando y nunca dejes de aprender!
+
 ![](https://i.giphy.com/igsVfO6Sro82xBQP8I.webp)
+<p align="center">
+ 
+  <img alt="Logo escudo Andalucía" src="https://i.pinimg.com/736x/e4/e0/b4/e4e0b4f3829fdf877332e5d31ed217c1.jpg" width="100" height="100"/>
+</p>
