@@ -28,10 +28,10 @@ Este año tengo el placer de enseñar los siguientes módulos:
 Aquí en GitHub, comparto recursos, ejemplos de código y proyectos que utilizamos en clase, permitiendo a los estudiantes explorar y aprender de manera práctica.
 
 ### 🛠️ Proyectos Destacados
-- `EjemploAuth`: Proyecto de ejemplo monolito de autenticación y Thymeleaf desarrollado con Spring Boot, que ilustra la implementación de un sistema de autenticación y autorización personalizado.
-- `API_Jabones`: Proyecto de ejemplo que realiza un CRUD de un API Restful para documentar con Postman
-- `API_SEGURITY_EXAMPLE`: Proyecto de ejemplo que realiza un CRUD con seguridad de un API Restful para documentar con Postman
-- `microservicios-ejemplo` Proyecto base para mostrar el ecosistema de microservicios
+- `EjemploAuth`: Este es un proyecto monolítico de ejemplo que utiliza Spring Boot junto con Thymeleaf para ilustrar cómo implementar un sistema de autenticación y autorización personalizado. La aplicación sirve como un modelo funcional para entender las operaciones de registro e inicio de sesión de los usuarios.
+- `API_Jabones`: Este proyecto de ejemplo presenta un CRUD (Crear, Leer, Actualizar, Borrar) para una API RESTful de un catálogo de jabones, la cual está diseñada para ser documentada con Postman. Se enfoca en demostrar la construcción y manejo de puntos finales RESTful y su correspondiente documentación.
+- `API_SECURITY_EXAMPLE`: Proyecto de ejemplo que implementa un CRUD con medidas de seguridad para una API RESTful. Este proyecto es ideal para aprender cómo proteger los endpoints de una API y asegurar las operaciones de datos. Incluye ejemplos de autenticación y autorización, y también está preparado para ser documentado con Postman.
+- `microservicios-ejemplo` Proyecto base que proporciona una introducción al ecosistema de microservicios. Este repositorio sirve como punto de partida para aquellos que están interesados en explorar cómo los microservicios interactúan entre sí y cómo se pueden desplegar y escalar de manera independiente.
 
 ### 📚 Recursos para Estudiantes
 Si eres estudiante, asegúrate de visitar los *Wikis* de mis repositorios, donde he compilado listas de recursos, lecturas adicionales y ejercicios para cada uno de los módulos que imparto.
