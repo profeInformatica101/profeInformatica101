@@ -44,8 +44,7 @@ Para cualquier consulta relacionada con los módulos, no dudes en abrir un *issu
 
 ¡Sigue programando y nunca dejes de aprender!
 
-![](https://i.giphy.com/igsVfO6Sro82xBQP8I.webp)
 <p align="center">
- 
+  <img alt="ODS2030" src="https://i.giphy.com/igsVfO6Sro82xBQP8I.webp" width="100" height="100"/>
   <img alt="Logo escudo Andalucía" src="https://i.pinimg.com/736x/e4/e0/b4/e4e0b4f3829fdf877332e5d31ed217c1.jpg" width="100" height="100"/>
 </p>
