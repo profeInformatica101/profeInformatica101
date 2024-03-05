@@ -25,6 +25,7 @@ Este año tengo el placer de enseñar los siguientes módulos:
 - **Entornos de Desarrollo**: Primer curso del título de DAW, enfocado en familiarizar a los estudiantes con las herramientas y prácticas que hacen posible el desarrollo de software moderno, incluyendo control de versiones, depuración y automatización.
 
 ### 🌐 Contribuciones
+[![Descripción del GIF](URL_DE_LA_IMAGEN_ESTATICA)](https://giphy.com/gifs/sdg-desarrollo-2030-igsVfO6Sro82xBQP8I)
 Aquí en GitHub, comparto recursos, ejemplos de código y proyectos que utilizamos en clase, permitiendo a los estudiantes explorar y aprender de manera práctica.
 
 ### 🛠️ Proyectos Destacados
