@@ -12,9 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Descripción alternativa de la imagen](https://cdn.pixabay.com/animation/2022/09/07/08/55/08-55-43-_256.gif)
 # :octocat:
-
+![Descripción alternativa de la imagen](https://cdn.pixabay.com/animation/2022/09/07/08/55/08-55-43-_256.gif)
 ## Acerca de mí
 
 ¡Hola! Soy el usuario **profeinformatica101**, un apasionado profesor de Educación Secundaria, Bachillerato y Formación Profesional. Estoy dedicado a inspirar y formar a la próxima generación de desarrolladores web.
