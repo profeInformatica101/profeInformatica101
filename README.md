@@ -12,6 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img alt="Descripción alternativa de la imagen" src="https://cdn.pixabay.com/animation/2022/09/07/08/55/08-55-43-_256.gif" width="auto" height="100"/>
+  <img alt="Logo escudo Andalucía" src="https://i.pinimg.com/736x/e4/e0/b4/e4e0b4f3829fdf877332e5d31ed217c1.jpg" width="100" height="100"/>
+</p>
 
 ![Descripción alternativa de la imagen](https://cdn.pixabay.com/animation/2022/09/07/08/55/08-55-43-_256.gif)
 ## Acerca de mí :octocat:
