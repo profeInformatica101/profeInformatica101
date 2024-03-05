@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 
 ## :octocat: Acerca de mí 
 ¡Hola! Soy el usuario **profeinformatica101**, un apasionado profesor de Educación Secundaria, Bachillerato y Formación Profesional. Estoy dedicado a inspirar y formar a la próxima generación de desarrolladores web.
+
 <p align="center">
   <img alt="Muñedo" src="https://cdn.pixabay.com/animation/2022/09/07/08/55/08-55-43-_256.gif" width="auto" height="100"/>
 </p>
+
 ### 🍎 Enseñanza
 Este año tengo el placer de enseñar los siguientes módulos:
 - **Desarrollo Web en Entorno Servidor**: Segundo curso del título de DAW, donde los estudiantes aprenden sobre tecnologías backend y cómo estas tecnologías interactúan con bases de datos para servir aplicaciones dinámicas y robustas.
