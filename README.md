@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Acerca de mí
 
-¡Hola! Soy el usuario **profeinformatica101**, un apasionado profesor de Educación Secundaria, Bachillerato y Formación Profesional especializado en Desarrollo de Aplicaciones Web (DAW). Estoy dedicado a inspirar y formar a la próxima generación de desarrolladores web.
+¡Hola! Soy el usuario **profeinformatica101**, un apasionado profesor de Educación Secundaria, Bachillerato y Formación Profesional. Estoy dedicado a inspirar y formar a la próxima generación de desarrolladores web.
 
 ### 🍎 Enseñanza
 Este año tengo el placer de enseñar los siguientes módulos:
