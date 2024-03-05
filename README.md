@@ -46,5 +46,5 @@ Para cualquier consulta relacionada con los módulos, no dudes en abrir un *issu
 
 <p align="center">
   <img alt="ODS2030" src="https://i.giphy.com/igsVfO6Sro82xBQP8I.webp" width="300" height="300"/>
-  <img alt="Logo escudo Andalucía" src="https://i.pinimg.com/736x/e4/e0/b4/e4e0b4f3829fdf877332e5d31ed217c1.jpg" width="100" height="90"/>
+  <img alt="Logo escudo Andalucía" src="https://i.pinimg.com/736x/e4/e0/b4/e4e0b4f3829fdf877332e5d31ed217c1.jpg" width="100" height="120"/>
 </p>
