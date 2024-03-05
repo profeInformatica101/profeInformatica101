@@ -39,6 +39,6 @@ Si eres estudiante, asegúrate de visitar los *Wikis* de mis repositorios, donde
 ---
 
 ## Contacto
-Para cualquier consulta relacionada con los módulos, no dudes en abrir un *issue* en este repositorio o enviarme un correo directamente a `profeinformatica101@educacion.edu`.
+Para cualquier consulta relacionada con los módulos, no dudes en abrir un *issue* en este repositorio o enviarme un correo directamente a `jdommay863@g.educaand.es`.
 
 ¡Sigue programando y nunca dejes de aprender!
