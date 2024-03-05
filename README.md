@@ -42,5 +42,4 @@ Si eres estudiante, asegúrate de visitar los *Wikis* de mis repositorios, donde
 Para cualquier consulta relacionada con los módulos, no dudes en abrir un *issue* en este repositorio o enviarme un correo directamente a `jdommay863@g.educaand.es`.
 
 ¡Sigue programando y nunca dejes de aprender!
-
-<iframe src="https://giphy.com/embed/igsVfO6Sro82xBQP8I" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+![](https://i.giphy.com/igsVfO6Sro82xBQP8I.webp)
