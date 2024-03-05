@@ -12,21 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-   <h2>Acerca de mí :octocat:</h2>
-<table>
-  
-  <tr>
-    <!-- Celda para la imagen -->
-    <td>
-      <img alt="Muñeco" src="https://cdn.pixabay.com/animation/2022/09/07/08/55/08-55-43-_256.gif" width="200" height="220"/>
-    </td>
-    <!-- Celda para el texto -->
-    <td>
-   
-      <p>¡Hola! Soy el usuario <strong>profeinformatica101</strong>, un apasionado profesor de Educación Secundaria, Bachillerato y Formación Profesional. Estoy dedicado a inspirar y formar a la próxima generación de desarrolladores web.</p>
-    </td>
-  </tr>
-</table>
+
+## Acerca de mí :octocat:
+<p align="center">
+  <img alt="Muñedo" src="https://cdn.pixabay.com/animation/2022/09/07/08/55/08-55-43-_256.gif" width="auto" height="100"/>
+</p>
+¡Hola! Soy el usuario **profeinformatica101**, un apasionado profesor de Educación Secundaria, Bachillerato y Formación Profesional. Estoy dedicado a inspirar y formar a la próxima generación de desarrolladores web.
 
 
 ### 🍎 Enseñanza
