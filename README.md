@@ -28,8 +28,10 @@ Este año tengo el placer de enseñar los siguientes módulos:
 Aquí en GitHub, comparto recursos, ejemplos de código y proyectos que utilizamos en clase, permitiendo a los estudiantes explorar y aprender de manera práctica.
 
 ### 🛠️ Proyectos Destacados
-- `ProyectoServidorWeb`: Un servidor web completo construido por los estudiantes, mostrando las capacidades de manejo de sesión, conexiones a base de datos, y una arquitectura segura.
-- `IDEProject`: Una colección de extensiones y configuraciones recomendadas para diferentes entornos de desarrollo integrado (IDE), ayudando a los estudiantes a configurar su espacio de trabajo.
+- `EjemploAuth`: Proyecto de ejemplo monolito de autenticación y Thymeleaf desarrollado con Spring Boot, que ilustra la implementación de un sistema de autenticación y autorización personalizado.
+- `API_Jabones`: Proyecto de ejemplo que realiza un CRUD de un API Restful para documentar con Postman
+- `API_SEGURITY_EXAMPLE`: Proyecto de ejemplo que realiza un CRUD con seguridad de un API Restful para documentar con Postman
+- `microservicios-ejemplo` Proyecto base para mostrar el ecosistema de microservicios
 
 ### 📚 Recursos para Estudiantes
 Si eres estudiante, asegúrate de visitar los *Wikis* de mis repositorios, donde he compilado listas de recursos, lecturas adicionales y ejercicios para cada uno de los módulos que imparto.
