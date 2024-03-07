@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 ## :octocat: Acerca de mí 
 ¡Hola! Soy un apasionado *profesor de Educación Secundaria, Bachillerato y Formación Profesional*. Estoy dedicado a inspirar y formar a la próxima generación de desarrolladores web.
-
+<!--
 <p align="center">
   <img alt="Muñedo" src="https://cdn.pixabay.com/animation/2022/09/07/08/55/08-55-43-_256.gif" width="auto" height="100"/>
 </p>
-
+-->
 ### 🍎 Enseñanza
 Este año tengo el placer de enseñar los siguientes módulos:
 - **Desarrollo Web en Entorno Servidor**: Segundo curso del título de DAW, donde los estudiantes aprenden sobre tecnologías backend y cómo estas tecnologías interactúan con bases de datos para servir aplicaciones dinámicas y robustas.
@@ -43,8 +43,8 @@ Si eres estudiante, asegúrate de visitar la *Moodle* del centro.
 Para cualquier consulta relacionada con los módulos, no dudes en abrir un *issue* en este repositorio o enviarme un correo directamente a `jdommay863@g.educaand.es`.
 
 ¡Sigue programando y nunca dejes de aprender!
-
+<!--
 <p align="center">
   <img alt="ODS2030" src="https://i.giphy.com/igsVfO6Sro82xBQP8I.webp" width="300" height="300"/>
   <img alt="Logo escudo Andalucía" src="https://i.pinimg.com/736x/e4/e0/b4/e4e0b4f3829fdf877332e5d31ed217c1.jpg" width="100" height="120"/>
-</p>
+</p> -->
