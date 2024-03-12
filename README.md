@@ -1,4 +1,4 @@
-
+<!--
 **profeInformatica101/profeInformatica101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 ## :octocat: Acerca de mí 
 ¡Hola! Soy un apasionado *profesor de Educación Secundaria, Bachillerato y Formación Profesional*. Estoy dedicado a inspirar y formar a la próxima generación de desarrolladores web.
 <!--
