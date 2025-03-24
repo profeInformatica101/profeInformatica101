@@ -1,18 +1,3 @@
-<!--
-**profeInformatica101/profeInformatica101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # 👨‍🏫 profeInformatica101
 
 ¡Bienvenido/a al repositorio principal de `profeInformatica101`!
@@ -54,7 +39,7 @@ Haz fork de los repositorios de ejercicios, sube tus soluciones y crea tu propio
 
 ## 📌 Contacto y más
 
-- 🌐 Página del centro: [IES Camas](https://iescamas.es/)
+- 🌐 Página del centro: [IES Camas](https://www.iescamas.es/)
 - 🧑‍💻 GitHub: [@profeInformatica101](https://github.com/profeInformatica101)
 - ✉️ Contacto: a través de los foros de clase o Moodle
 
@@ -62,4 +47,3 @@ Haz fork de los repositorios de ejercicios, sube tus soluciones y crea tu propio
 
 **Este repositorio está en constante evolución.** ¡Gracias por visitar y aprender conmigo!  
 *Aprender haciendo es la mejor forma de crecer.*
-
